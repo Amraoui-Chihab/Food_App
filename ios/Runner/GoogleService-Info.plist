@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>998872104843-q57uuesd7qus93rc7n6iubdaucde6buh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.998872104843-q57uuesd7qus93rc7n6iubdaucde6buh</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBQqQJslG6UDpIEVdhH6V4W8S7eAxNNdo4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>998872104843</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.mrYummyV2</string>
+	<key>PROJECT_ID</key>
+	<string>mr-yummy-v2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mr-yummy-v2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:998872104843:ios:ab2a1bc591c5cafbcd398e</string>
+</dict>
+</plist>
